@@ -1,0 +1,14 @@
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.exe
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.deps.json
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.runtimeconfig.json
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\bin\Debug\net8.0\EstacionamentoApp.pdb
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.AssemblyInfo.cs
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\refint\EstacionamentoApp.dll
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.pdb
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\EstacionamentoApp.genruntimeconfig.cache
+C:\Users\anton\Desktop\Ava\trilha-net-fundamentos-desafio-main\Desafio-Estacionamento\EstacionamentoApp\obj\Debug\net8.0\ref\EstacionamentoApp.dll
